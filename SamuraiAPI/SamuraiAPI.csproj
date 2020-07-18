@@ -19,5 +19,9 @@
     <ProjectReference Include="..\SamuraiApp.Domain\SamuraiApp.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Postman\" />
+  </ItemGroup>
+
 
 </Project>
